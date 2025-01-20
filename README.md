@@ -14,6 +14,12 @@ The datasets in this repository come from multiple sources. Below is a list of t
 - **Original URL:** https://data.transportation.gov/Aviation/Consumer-Airfare-Report-Table-1-Top-1-000-Contiguo/4f3n-jbg2/data_preview.
 - **Creator/Organization:** U.S.Department of Transportation.
 
+### Dataset add template
+- **Name:** [Dataset Name]
+- **Source:** [Source Name]
+- **Original URL:** [Link to the original source]
+- **License:** [Specify the license if known]
+- **Creator/Organization:** [Creator or organization name]
 
 ## Usage
 
